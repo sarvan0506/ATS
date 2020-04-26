@@ -22,7 +22,7 @@ sudo docker run -d -p <sys_port>:<docker_port> --name <app_name> <image_name>:<t
 # Access the api via post request:
 
 ## request - application/json
-http:// <ip>:<port> /
+http://[ip]:[port]/
 {  
     "description": "there are belgium costumers calling the polish phone number of agnwfwieszka.\ncan we do something on it."  
 }  
