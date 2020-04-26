@@ -26,4 +26,4 @@ WORKDIR /src
 
 EXPOSE 8011
 
-#CMD ["python3.6", "predict_ticket.py"]
+CMD ["python3.6", "predict_ticket.py"]
