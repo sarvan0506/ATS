@@ -1,7 +1,7 @@
 # ATS
 Automatic Ticket Assignment system API
 
-This api works based on a linear model to classify support tickets into respective Groups 0,1,2
+This api works based on a linear model to classify support tickets into respective Groups 0,1,2. Features are extracted from ticket description using TF-IDF Vectorization.
 
 
 Make sure you have docker engine installed in your environment
